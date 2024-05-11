@@ -1,1 +1,8 @@
-testtjkasafdldwnfkwdmngfmd
+git commit instruction:
+
+cd downloads 
+cd IDI101_Assessment_4
+git status
+git add .
+git commit -m "message"
+git push
